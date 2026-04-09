@@ -9,10 +9,10 @@ Un programme Java pour résoudre des grilles de Sudoku en utilisant l'algorithme
 - Résolution de grilles valides
 
 ## Membre du groupe GLSI3B
-El Hadji Abdourahmane Diop
-Mame Saye Fall
-Bigue Badiane
-Cherif Younouss Diedhiou
+El Hadji Abdourahmane Diop / 
+ Mame Saye Fall /
+ Bigue Badiane /
+ Cherif Younouss Diedhiou
 
 
 ## Utilisation
