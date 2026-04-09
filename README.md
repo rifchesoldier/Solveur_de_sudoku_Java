@@ -8,6 +8,13 @@ Un programme Java pour résoudre des grilles de Sudoku en utilisant l'algorithme
 - Affichage formaté avec des bordures
 - Résolution de grilles valides
 
+## Membre du groupe GLSI3B
+El Hadji Abdourahmane Diop
+Mame Saye Fall
+Bigue Badiane
+Cherif Younouss Diedhiou
+
+
 ## Utilisation
 ```bash
 # Compiler les fichiers
@@ -49,9 +56,4 @@ java -cp src Main grilles-exemple/grilleX.txt
 java -cp src Main
 \`\`\`
 EOF
-# Membre du groupe GLSI3B
- 
-El Hadji Abdourahmane Diop
-Mame Saye Fall
-Bigue Badiane 
-Cherif Younouss Diedhiou
+
