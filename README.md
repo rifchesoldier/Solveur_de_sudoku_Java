@@ -49,3 +49,9 @@ java -cp src Main grilles-exemple/grilleX.txt
 java -cp src Main
 \`\`\`
 EOF
+# Membre du groupe GLSI3B
+ 
+El Hadji Abdourahmane Diop
+Mame Saye Fall
+Bigue Badiane 
+Cherif Younouss Diedhiou
