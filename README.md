@@ -24,7 +24,7 @@ javac src/*.java
 java src.Main .\grilles-exemple\grille2.txt
 
 
----
+-----------------------------------------------------------------------------------------------------------------------
 
 
 # Solveur de Sudoku en Java
