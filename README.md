@@ -20,11 +20,8 @@ El Hadji Abdourahmane Diop /
 # Compiler les fichiers
 javac src/*.java
 
-# Exécuter avec un fichier (grille1.txt, grille2.txt ou grille3.txt)
-java -cp src Main grilles-exemple/grilleX.txt
-
-# Exécuter en saisie manuelle
-java -cp src Main
+# Exécuter avec un fichier (avec les fichier grilleX.txt)
+java src.Main .\grilles-exemple\grille2.txt
 
 
 ---
